@@ -1,4 +1,4 @@
 # Amin is working on the Logout feature
 
-def logout():
+def logout(x):
     pass
