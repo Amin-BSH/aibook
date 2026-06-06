@@ -1,0 +1,4 @@
+# Amin is working on the Logout feature
+
+def logout():
+    pass
